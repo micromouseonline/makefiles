@@ -16,5 +16,5 @@ Here are some sample makefile projects that can be used as templates. Mostly, th
 
     * ```info```: simply lists some important Makefile variables for testing. Included will be a list of the source and object files. This could get big in a more complex project. There is probably a way to do this with ```make``` but this seems more tailored to the needs of a particular project. Handy when modifying and testing the Makefile.
 
-More samples may folow one day.
+More samples may follow one day.
 
